@@ -4,7 +4,8 @@ This project implements the QUIC (Quick UDP Internet Connections) protocol using
 
 ## Video Demo
 
-[![QUIC Protocol Implementation Demo([http://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://github.com/PrayujaTeli/Chat-Protocol/blob/60c073c175a41b7f9239dd9496083c644b84e7c4/Chat-Protocol-Demo.mp4)]](https://github.com/PrayujaTeli/Chat-Protocol/blob/4523948198f324e230133fe646b15945a95b994f/Chat-Protocol-Demo.mp4)
+[![QUIC Protocol Implementation Demo](https://github.com/PrayujaTeli/Chat-Protocol/blob/main/thumbnail.jpg)](https://github.com/PrayujaTeli/Chat-Protocol/blob/4523948198f324e230133fe646b15945a95b994f/Chat-Protocol-Demo.mp4)
+
 
 ## Features
 
